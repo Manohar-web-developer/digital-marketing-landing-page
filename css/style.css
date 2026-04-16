@@ -159,7 +159,7 @@ header {
     box-shadow: 0px 1px 3px 0px #1018281A;
     display: flex;
     flex-direction: column;
-    gap: 40px;
+    gap: 24px;
 
 }
 
@@ -885,6 +885,20 @@ footer {
     color: #FFFFFF;
 
 }
-.downloadbtn div{
+
+.downloadbtn div {
     height: 24px;
+}
+
+.bookbtn2 {
+    border-radius: 8px;
+    padding: 10px 18px;
+    background: linear-gradient(93.77deg, #0ACEFE -6.36%, #2699FB 50.16%);
+    border: 1px solid;
+    box-shadow: 0px 1px 2px 0px #1018280D;
+    border-image-source: linear-gradient(93.77deg, #0ACEFE -6.36%, #2699FB 50.16%);
+    font-weight: 500;
+    color: #FFFFFF;
+    width: 100%;
+
 }
